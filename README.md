@@ -4,5 +4,5 @@
 <b> Deliverables</B> Completed apps are tested on a device :iphone:, presented to peers, and uploaded ot Github for teacher review and grade. <br>
 <b>example of screenshots of our completed Stopwatch.app</b><br><br>
 Stopwatch App Start Screen</b>&nbsp;&nbsp; :octocat:<br><br>
-![Alt Text] (
+![Alt Text] (https://github.com/Pancake1/stopwatch/blob/master/Screenshots/Capture.PNG "Starting Screen")<br><br>
 
