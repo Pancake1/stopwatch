@@ -5,4 +5,5 @@
 <b>Example of screenshots of our completed Stopwatch.app</b><br><br>
 Stopwatch App Start Screen</b>&nbsp;&nbsp; :octocat:<br><br>
 ![Alt Text] (https://github.com/Pancake1/stopwatch/blob/master/Screenshots/Capture.PNG "Starting Screen")<br><br>
-
+<b> Running App Screen :running: <br><br>
+![Alt Text] (
