@@ -6,4 +6,4 @@
 Stopwatch App Start Screen</b>&nbsp;&nbsp; :octocat:<br><br>
 ![Alt Text] (https://github.com/Pancake1/stopwatch/blob/master/Screenshots/Capture.PNG "Starting Screen")<br><br>
 <b> Running App Screen :running: <br><br>
-![Alt Text] (
+![Alt Text] (https://github.com/Pancake1/stopwatch/blob/master/Screenshots/Capture1.PNG "Running Screen")<br><br>
